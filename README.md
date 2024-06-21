@@ -1,1 +1,7 @@
-# test-app-3
+# test-app-tasks
+cd backend 
+npm install
+npm run start
+cd frontend 
+npm install
+npm run serve
