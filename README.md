@@ -1,5 +1,5 @@
 # test-app-tasks
-cd backend /n
+cd backend 
 npm install
 npm run start
 cd frontend 
